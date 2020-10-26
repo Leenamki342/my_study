@@ -5,3 +5,6 @@
 4. java
 5. android, kotlin
 6. git
+7. C언어
+8. ios 공부하기
+9. mac os 공부하기!!
